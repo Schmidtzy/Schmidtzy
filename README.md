@@ -60,14 +60,14 @@ Hi there👋🏼, I'm a master's student and Research Assistant at Aarhus Univer
 ## GitHub
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Schmidtzy&theme=github_dark" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Schmidtzy&theme=transparent" width="95%" />
 </div>
 
 
 ## How I Spend My Time
 
 <div align="center">
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Copying%20from%20AI','Waiting%20for%20pip%20install','Why%20is%20this%20not%20working','Actually%20coding','Reading%20papers%20(skimming)','Questioning%20life%20choices','GPU%20go%20brrr','Coffee%20breaks'],datasets:[{data:[18,12,15,12,10,8,15,10],backgroundColor:['%236366f1','%2322d3ee','%23f43f5e','%2310b981','%23a855f7','%23f97316','%233b82f6','%23eab308']}]},options:{plugins:{legend:{labels:{color:'%23ffffff',font:{size:14}},position:'right'}},cutout:'50%'}}&backgroundColor=%230d1117" width="600" />
+  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Copying%20from%20AI','Waiting%20for%20pip%20install','Why%20is%20this%20not%20working','Actually%20coding','Reading%20papers%20(skimming)','Questioning%20life%20choices','GPU%20go%20brrr','Coffee%20breaks'],datasets:[{data:[18,12,15,12,10,8,15,10],backgroundColor:['%236366f1','%2322d3ee','%23f43f5e','%2310b981','%23a855f7','%23f97316','%233b82f6','%23eab308']}]},options:{plugins:{legend:{labels:{color:'%23ffffff',font:{size:14}},position:'right'}},cutout:'50%'}}&backgroundColor=transparent" width="600" />
 </div>
 
 <br>
