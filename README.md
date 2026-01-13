@@ -21,6 +21,17 @@ Hi there👋🏼, I'm a master's student and Research Assistant at Aarhus Univer
 <table>
 <tr>
 <td>
+<a href="https://www.mdpi.com/1424-8220/26/2/402">
+<img src="https://img.shields.io/badge/Sensors-2026-10b981?style=for-the-badge&logo=openaccess&logoColor=white" />
+</a>
+</td>
+<td>
+<b>Developing and Assessing the Performance of a Machine Learning Model for Analyzing Drinking Behaviors in Minipigs for Experimental Research</b><br>
+<sub>Sensors 2026, 26(2), 402 · IoT · ML · Animal Welfare</sub>
+</td>
+</tr>
+<tr>
+<td>
 <a href="https://www.mdpi.com/1424-8220/25/3/785">
 <img src="https://img.shields.io/badge/Sensors-2025-10b981?style=for-the-badge&logo=openaccess&logoColor=white" />
 </a>
