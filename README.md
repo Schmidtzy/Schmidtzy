@@ -1,13 +1,15 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=0553AA&center=true&vCenter=true&repeat=false&random=true&lines=Schmidtzy" alt="name" />
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=767E86&center=true&vCenter=true&multiline=true&repeat=false&height=70&lines=M.Sc.Eng.+Computer+Technology;Aarhus+University;IoT+%E2%80%A2+Machine+Learning+%E2%80%A2+Agents" alt="details" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=767E86&center=true&vCenter=true&multiline=true&repeat=false&height=70&lines=M.Sc.Eng.+%C2%B7+Computer+Engineering;IoT+%E2%80%A2+Machine+Learning+%E2%80%A2+Agents" alt="details" />
 </div>
-<br>
+
 ## About
-Hi there👋🏼, I'm an engineer with an M.Sc. in Computer Technology from Aarhus University. I've worked with the Biomedical & Pervasive Systems Research Group, with a focus on IoT, machine learning, and intelligent agents.
-<br>
+
+Hi there👋🏼, I'm an engineer with an M.Sc. in Computer Engineering from Aarhus University. I've worked with the Biomedical & Pervasive Systems Research Group, with a focus on IoT, machine learning, and intelligent agents.
+
 ## Research
+
 <table>
 <tr>
 <td>
@@ -32,8 +34,9 @@ Hi there👋🏼, I'm an engineer with an M.Sc. in Computer Technology from Aarh
 </td>
 </tr>
 </table>
-<br>
+
 ## Technologies I Use
+
 <div align="center">
 <table>
 <tr>
@@ -52,18 +55,20 @@ Hi there👋🏼, I'm an engineer with an M.Sc. in Computer Technology from Aarh
 </tr>
 </table>
 </div>
-<br>
+
 ## GitHub
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Schmidtzy&theme=transparent" width="95%" />
 </div>
-<br>
+
 <div align="center">
 <details>
 <summary style="cursor: pointer; font-size: 1.2em; font-weight: bold; padding: 10px;">
 University Coursework - Click to expand
 </summary>
 <br>
+
 | Category | Courses |
 | :--- | :--- |
 | **Machine Learning** | Deep Learning · Computer Vision · Statistical Learning · Explainable Statistical Learning |
@@ -74,10 +79,12 @@ University Coursework - Click to expand
 | **Math & Theory** | Declarative Programming · Discrete Mathematics · Differential Equations · Probability and Statistics · Numerical Linear Algebra |
 | **Signal Processing** | Signals and Systems · Discrete-Time Signal Processing · Introduction to Control Systems |
 | **Projects** | Bachelor Project · 2x R&D Projects (Dept. & Company Collab) · Computer Technology Project I & II |
+
 </details>
 </div>
-<br>
+
 ---
+
 <div align="center">
   <table>
   <tr>
